@@ -1,6 +1,6 @@
 # DailyProject
 实现日常自动打卡的简单平台（学生就不同连续打健康码的偷懒神奇）
-涉及技术：原生手搓的HTML+JS+css+AJAX
+涉及技术：原生手搓的HTML+JS+css+AJAX+jQuery
 PS:界面挺简单，没怎么设计，主要是朋友叫我帮忙写的前端页面，是个小demo
 
 功能：
